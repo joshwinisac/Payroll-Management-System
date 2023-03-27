@@ -1,0 +1,32 @@
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll Mangaement System.vbproj.AssemblyReference.cache
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll_Mangaement_System.Form2.resources
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll_Mangaement_System.Resources.resources
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll Mangaement System.vbproj.GenerateResource.cache
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll Mangaement System.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll Mangaement System.AssemblyInfoInputs.cache
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll Mangaement System.AssemblyInfo.vb
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll Mangaement System.vbproj.CoreCompileInputs.cache
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\bin\Debug\net6.0-windows\Payroll Mangaement System.exe
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\bin\Debug\net6.0-windows\Payroll Mangaement System.deps.json
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\bin\Debug\net6.0-windows\Payroll Mangaement System.runtimeconfig.json
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\bin\Debug\net6.0-windows\Payroll Mangaement System.dll
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\bin\Debug\net6.0-windows\Payroll Mangaement System.pdb
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll Mangaement System.dll
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\refint\Payroll Mangaement System.dll
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll Mangaement System.pdb
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll Mangaement System.genruntimeconfig.cache
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\ref\Payroll Mangaement System.dll
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll_Mangaement_System.Form4.resources
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll Mangaement System.vbproj.CopyComplete
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll_Mangaement_System.Login.resources
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll_Mangaement_System.Form5.resources
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll_Mangaement_System.Form6.resources
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll_Mangaement_System.Form7.resources
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll_Mangaement_System.Form8.resources
+C:\VSc\Payroll Mangaement System\Payroll Mangaement System\obj\Debug\net6.0-windows\Payroll_Mangaement_System.Form9.resources
